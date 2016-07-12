@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Yeshu Yatra]]></title>
         <description><![CDATA[Yeshu Yatra]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yeshu-yatra/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 17:02:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jul 2016 17:21:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yeshu-yatra/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d202d98-bf2f-4cca-b968-1099d57732c5.jpg">]]></description>
-            <link>undefined990f40dd-b9ab-4b0c-90d6-f12bfb8d2ea3/index.html</link>
+            <link>https://thegrid.ai/yeshu-yatra/990f40dd-b9ab-4b0c-90d6-f12bfb8d2ea3/index.html</link>
             <guid isPermaLink="false">990f40dd-b9ab-4b0c-90d6-f12bfb8d2ea3</guid>
-            <pubDate>Tue, 12 Jul 2016 17:02:17 GMT</pubDate>
+            <pubDate>Tue, 12 Jul 2016 17:21:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
